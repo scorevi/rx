@@ -43,4 +43,4 @@
     <div class="mt-6">
         {{ $roles->links('pagination::tailwind') }}
     </div>
-@endsection
+@endsection 
